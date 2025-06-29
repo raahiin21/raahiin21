@@ -15,7 +15,7 @@ Trying to become someone better
 
 ## Tech stack 
 
-HTML • CSS • JS • Python • Git • Jupyter
+HTML • CSS • JS • Python • Git • Jupyter • JavaScript • Java • C • C++ • MySQL 
 
 ---
 
