@@ -8,8 +8,8 @@ Trying to become someone better
 ## Currently Working On
 
 - Grasping frontend and backend concepts
+- machine learning using python 
 - Practicing consistency 
-- web development 
 
 ---
 
