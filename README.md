@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Rahin
+# Hey, I’m Rahin ;)
 
 Final-year CS Diploma Student | Currently interning & learning web development  
 Trying to become someone better 
@@ -39,6 +39,7 @@ HTML • CSS • JS • Python • Git • Jupyter • JavaScript • Java • C
 ---
 
 ## 📫 Wanna Connect?
+
 - Just a student, not an expert ... but always open to learning & sharing.
 - email : rahinkhamkar21@gmail.com
 
