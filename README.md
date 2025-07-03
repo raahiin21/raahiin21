@@ -1,4 +1,4 @@
-# Hey, I’m Rahin ;)
+# Hey, I’m Rahin 👋 
 
 Final-year CS Diploma Student | Currently interning & learning web development  
 Trying to become someone better 
