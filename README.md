@@ -42,5 +42,6 @@ HTML • CSS • JS • Python • Git • Jupyter • JavaScript • Java • C
 
 - Just a student, not an expert ... but always open to learning & sharing.
 - email : rahinkhamkar21@gmail.com
+- LinkedIn : https://www.linkedin.com/in/rahinkhamkar
 
 ## ☕ If you’re reading this, thanks for stopping by.
