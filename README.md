@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <i>Still figuring things out — chasing better, one step at a time ✨</i>
+  <i>Still figuring things out — chasing better ✨</i>
 </p>
 
 ---
