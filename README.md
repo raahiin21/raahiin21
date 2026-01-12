@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m Rahin 👋</h1>
+<h1 align="center">Hey, I’m Rahin!</h1>
 
 <p align="center">
   <b>CS Student</b> • <b>Aspiring Full-Stack Developer</b> • Exploring <b>UI/UX</b>, <b>AI</b> & <b>Machine Learning</b>
