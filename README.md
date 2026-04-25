@@ -10,11 +10,11 @@
 
 ---
 
-working on the problems that actually bother me — things which are overlooked, under-engineered, the "why does nobody fix this" kind. more interested in the things that sit quietly in other people's workflows than the things that get attention. trying to build at both ends ... systems that hold up under pressure and interfaces that don't make people think twice.
+working on the problems that actually bother me and drawn to the kind of problems that quietly slow people down - Things that sit inside everyday work and make it smoother, even if they don’t get much attention.
 
-understanding what's underneath — not just what to call, but why it behaves the way it does. the logic, the math, the parts most people skip. wide by curiosity, deep by stubbornness.
+I like building at both ends: systems that actually solve the problem and become part of your workflow, and interfaces that feel intuitive enough to keep you using them without friction.
 
-still learning. still improving.
+interested in what’s underneath — the theory, the logic, and the reasoning behind things. Not just how to use something, but why it behaves the way it doe.
 
 ---
 
