@@ -24,7 +24,7 @@ interested in what’s underneath — the theory, the logic, and the reasoning b
 <td align="center" width="50%">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,cpp&theme=dark" />
 
 </td>
 <td align="center" width="50%">
