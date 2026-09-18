@@ -82,7 +82,7 @@ interested in what’s underneath — the theory, the logic, and the reasoning b
 
 <div align="center">
 
-[rahinkhamkar21@gmail.com](mailto:rahinkhamkar21@gmail.com) · [LinkedIn](https://linkedin.com/in/rahinkhamkar)
+[rahinkhamkar21@gmail.com](mailto:rahinkhamkar21@gmail.com) 
 
 <br>
 
