@@ -3,13 +3,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A9FFE2&center=true&width=435&lines=Hey%2C+Rahin+this+side!" alt="Typing SVG" /></a>
 
 <p align="center">
-  <img src="assets/github.gif" width="100%" alt="Animated profile banner" />
+  <img src="assets/github.gif" width="100%"  height="150" alt="Animated profile banner" />
 </p>
 <p><b> CS Student</b> • <b>Aspiring Full-Stack Developer</b> • Exploring <b>UI/UX</b>, <b>AI</b> & <b>Machine Learning</p>
 
 </div>
-
-<img width="100%" height="200" alt="banner" src="https://github.com/user-attachments/assets/62972549-3e9f-437f-98a7-c9cd3f0c571e" />
 
 ---
 
@@ -93,6 +91,7 @@ Investigating whether reward-modulated STDP can reproduce feedback-dependent lea
 </tr>
 </table>
 
+<img width="100%" height="200" alt="banner" src="https://github.com/user-attachments/assets/62972549-3e9f-437f-98a7-c9cd3f0c571e" />
 <sub>Currently exploring: developer tooling, learning dynamics, and the gap between a system that changes and one that actually improves.</sub>
 
 ---
