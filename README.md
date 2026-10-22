@@ -1,7 +1,10 @@
 <div align="center">
 
-<h1>Rahin Khamkar</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=A9FFE2&center=true&width=435&lines=Hey%2C+Rahin+this+side!" alt="Typing SVG" /></a>
 
+<p align="center">
+  <img src="assets/github.gif" width="100%" alt="Animated profile banner" />
+</p>
 <p><b> CS Student</b> • <b>Aspiring Full-Stack Developer</b> • Exploring <b>UI/UX</b>, <b>AI</b> & <b>Machine Learning</p>
 
 </div>
@@ -59,6 +62,40 @@ interested in what’s underneath — the theory, the logic, and the reasoning b
 
 </div>
 
+---
+
+---
+
+<h2 align="left"><code>~/currently-building</code></h2>
+
+<p><sub>A look at what I'm working on, investigating, and figuring out.</sub></p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 / Project Ghost</h3>
+
+<sub>PYTHON · CLI · DEVELOPER TOOLING</sub>
+
+Ghost watches running programs, captures and classifies errors, identifies recurring patterns across a session, and assigns fragility scores to files — helping surface the parts of a codebase that may need attention before they become bigger problems.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 / DishBrain SNN</h3>
+
+<sub>PYTHON · COMPUTATIONAL INTELLIGENCE · RESEARCH</sub>
+
+Investigating whether reward-modulated STDP can reproduce feedback-dependent learning reported in biological neural cultures, using a simplified Pong environment and controlled experiments.
+
+</td>
+</tr>
+</table>
+
+<sub>Currently exploring: developer tooling, learning dynamics, and the gap between a system that changes and one that actually improves.</sub>
+
+---
 ---
 
 | Project | What it is |
